@@ -2,9 +2,9 @@
 The script finds all VDI and correlates them with the VM through the VBD, resulting in an array with the name of the virtual machine , the virtual disk name and position in the VBD.
 Example: A virtual machine named CentOS6_Test and two virtual disks will look like this.
 #Example:
- |   Name VM    |   Name VDI 0   |    Name VDI 1  |
- |:------------:|:--------------:|:--------------:|
- | CentOS6_Test | CentOS6_Test_0 | CentOS6_Test_1 |
+|   Name VM    |   Name VDI 0   |    Name VDI 1  |
+|:------------:|:--------------:|:--------------:|
+| CentOS6_Test | CentOS6_Test_0 | CentOS6_Test_1 |
 
 #The parameters of the script
 ```
